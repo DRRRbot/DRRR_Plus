@@ -1,5 +1,7 @@
 .talk.saki-2x .bubble .body,.talk.saki-2x .bubble .tail-wrap {
 	background: #fda500;
+	background: -webkit-gradient(linear,left top,left bottom,from(#fad34b),color-stop(50%,#f99d35),color-stop(51%,#dc721b),to(#f9831e));
+	background: linear-gradient(to bottom,#fad34b 0,#f99d35 50%,#dc721b 51%,#f9831e 100%)
 }
 .avatar-saki-2x {
 	background: transparent url("data:image/svg+xml,%3Csvg%20width%3D%2295%22%20height%3D%2295%22%20viewBox%3D%220%200%2095%2095%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20xmlns%3Axlink%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%22%3E%3Ctitle%3Eavatar-saki-2x%3C%2Ftitle%3E%3Cdefs%3E%3Crect%20id%3D%22a%22%20width%3D%2295%22%20height%3D%2295%22%20rx%3D%2222%22%2F%3E%3ClinearGradient%20x1%3D%2250%25%22%20y1%3D%220%25%22%20x2%3D%2250%25%22%20y2%3D%2299.296%25%22%20id%3D%22b%22%3E%3Cstop%20stop-color%3D%22%23FFD199%22%20offset%3D%220%25%22%2F%3E%3Cstop%20stop-color%3D%22%23FFA953%22%20offset%3D%2257.569%25%22%2F%3E%3Cstop%20stop-color%3D%22%23FAB239%22%20offset%3D%22100%25%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Cg%20fill%3D%22none%22%20fill-rule%3D%22evenodd%22%3E%3Cmask%20id%3D%22c%22%20fill%3D%22%23fff%22%3E%3Cuse%20xlink%3Ahref%3D%22%23a%22%2F%3E%3C%2Fmask%3E%3Cuse%20fill%3D%22%23FFF%22%20xlink%3Ahref%3D%22%23a%22%2F%3E%3Cpath%20d%3D%22M71.333%207H40.336c-1.174%200-2.126.952-2.126%202.126v22.79c0%20.526.426.952.952.952h17.85c.425%200%20.77-.345.77-.77v-10.02c0-.59.48-1.068%201.07-1.068h8.355c.59%200%201.07.478%201.07%201.07v10.017c0%20.426.345.77.77.77h10.2c1.305%200%202.363%201.06%202.363%202.364v4.533c0%201.306-1.058%202.363-2.362%202.363h-10.2c-.426%200-.772.345-.772.772V57.84c0%2012.278-8.436%2022.155-23.183%2022.155H28.535c-.59%200-1.068-.48-1.068-1.07V72.42c0-.59.478-1.067%201.068-1.067h17.107c8.368%200%2012.14-8.16%2012.14-15.157v-13.3c0-.426-.345-.77-.77-.77H39.16c-.526%200-.952.426-.952.952v12.194c0%201.304-1.058%202.362-2.363%202.362h-5.013c-1.305%200-2.362-1.058-2.362-2.362V43.078c0-.526-.426-.953-.953-.953h-9.67c-1.304%200-2.362-1.057-2.362-2.363v-4.53c0-1.306%201.058-2.364%202.363-2.364h9.67c.526%200%20.952-.426.952-.952V9.126C28.472%207.952%2027.52%207%2026.346%207h-1.678C14.91%207%207%2014.91%207%2024.67v46.66C7%2081.09%2014.91%2089%2024.668%2089h46.664C81.09%2089%2089%2081.09%2089%2071.332V24.668C89%2014.91%2081.09%207%2071.333%207%22%20fill%3D%22url(%23b)%22%20mask%3D%22url(%23c)%22%2F%3E%3C%2Fg%3E%3C%2Fsvg%3E") no-repeat center top
@@ -7,6 +9,8 @@
 
 .talk.rotchi-2x .bubble .body,.talk.rotchi-2x .bubble .tail-wrap {
 	background: #fda500;
+	background: -webkit-gradient(linear,left top,left bottom,from(#fad34b),color-stop(50%,#f99d35),color-stop(51%,#dc721b),to(#f9831e));
+	background: linear-gradient(to bottom,#fad34b 0,#f99d35 50%,#dc721b 51%,#f9831e 100%)
 }
 
 .avatar-rotchi-2x {
