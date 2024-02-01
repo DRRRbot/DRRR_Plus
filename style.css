@@ -67,3 +67,10 @@ ul.menu>li>.icon:focus,ul.menu>li>.icon:hover,ul.menu>li>a:focus,ul.menu>li>a:ho
 	background-color: rgba(0,0,0,.5);
 }
 
+#uguu {
+	position: absolute;
+	left: 8%;
+	bottom: -1%;
+	font-size: 150%;
+	color: rgba(255,255,255,.5);
+}
